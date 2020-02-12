@@ -3,8 +3,8 @@ import javax.swing.JOptionPane;
 public class Stringer {
     
     public static void main(String[] args) {
-        String firstNumber = JOptionPane.showInputDialog("2");
-        String secondNumber = JOptionPane.showInputDialog("3");
+        String firstNumber = JOptionPane.showInputDialog("Digite o valor");
+        String secondNumber = JOptionPane.showInputDialog("Digite o valor");
         
         //converte string em valores int para utilização
         
